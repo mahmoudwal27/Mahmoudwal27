@@ -23,10 +23,9 @@ Here are some of the tools and technologies I'm proficient in:
 ## 🌍 Let's Connect
 
 Feel free to connect with me on any of these platforms:
-
-- **Email**: (mahmoudwaleed200127@gmail.com)  
-- **LinkedIn**: (https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mahmoud-waleed-932a38280))   
-- **Portfolio**: ([https://yourportfolio.com](https://mahmoudwaleed.my.canva.site/mahmoud-waleed))
+- **Email**: [mahmoudwaleed200127@gmail.com](mailto:mahmoudwaleed200127@gmail.com)
+- **LinkedIn**: [Mahmoud Waleed](https://mahmoudwaleed.my.canva.site/mahmoud-waleed)
+- **Portfolio**: [Mahmoud Waleed Portfolio](https://mahmoudwaleed.my.canva.site/mahmoud-waleed)
 
 ## 🙏 Thanks for Visiting!
 
