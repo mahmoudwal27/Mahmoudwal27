@@ -12,13 +12,12 @@ Welcome to my GitHub profile! I'm a **Junior Data Analyst** passionate about exp
 
 Here are some of the tools and technologies I'm proficient in:
 
-- **Programming Languages**: Python, R, SQL  
-- **Data Analysis Tools**: Pandas, NumPy  
-- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn  
-- **Machine Learning**: Scikit-Learn, TensorFlow  
-- **Databases**: MySQL, PostgreSQL, SQLite  
-- **Version Control**: Git, GitHub  
-- **Tools**: Jupyter Notebook, Google Colab
+- I have experience with **Python and SQL** for data analysis.  
+- I use **Pandas, NumPy, Excel, and DAX** for data manipulation and processing.  
+- I specialize in data visualization with **Tableau, Power BI, Matplotlib, and Seaborn**.  
+- I work with databases such as **MySQL, PostgreSQL, SQLite, and SQL Server**.  
+- I use **Git and GitHub** for version control.  
+- I work with **Jupyter Notebook, Google Colab, Power BI, Tableau, SQL Server, and Excel** for efficient data analysis and reporting.  
 
 ## 🌍 Let's Connect
 
