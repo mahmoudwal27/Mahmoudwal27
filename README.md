@@ -15,7 +15,7 @@ Here are some of the tools and technologies I'm proficient in:
 - **Programming Languages**: Python, R, SQL  
 - **Data Analysis Tools**: Pandas, NumPy  
 - **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn  
-- **Machine Learning**: Scikit-Learn, TensorFlow (beginner)  
+- **Machine Learning**: Scikit-Learn, TensorFlow  
 - **Databases**: MySQL, PostgreSQL, SQLite  
 - **Version Control**: Git, GitHub  
 - **Tools**: Jupyter Notebook, Google Colab
