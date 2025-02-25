@@ -58,36 +58,13 @@ Here are some of the tools and technologies I'm proficient in:
       <br>NumPy
     </td>
   </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" width="50" height="50" alt="Excel"/>
-      <br>Excel
-    </td>
     <td align="center" width="140">
       <img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" width="50" height="50" alt="Power BI"/>
       <br>Power BI
     </td>
     <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50" height="50" alt="Tableau"/>
+      <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="50" height="50" alt="Tableau"/>
       <br>Tableau
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
-      <br>MySQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite"/>
-      <br>SQLite
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-      <br>Git
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
-      <br>GitHub
     </td>
     <td align="center" width="140">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter"/>
