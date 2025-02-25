@@ -59,7 +59,7 @@ Here are some of the tools and technologies I'm proficient in:
     </td>
   </tr>
     <td align="center" width="140">
-      <img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" width="50" height="50" alt="Power BI"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="50" height="50" alt="Power BI"/>
       <br>Power BI
     </td>
     <td align="center" width="140">
