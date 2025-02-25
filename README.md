@@ -63,7 +63,7 @@ Here are some of the tools and technologies I'm proficient in:
       <br>Power BI
     </td>
     <td align="center" width="140">
-      <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="50" height="50" alt="Tableau"/>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="50" height="50" alt="Tableau"/>
       <br>Tableau
     </td>
     <td align="center" width="140">
