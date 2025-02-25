@@ -17,12 +17,6 @@ Here are some of the tools and technologies I'm proficient in:
 - I use **Git and GitHub** for version control.  
 - I work with **Jupyter Notebook, Google Colab, Power BI, Tableau, SQL Server, and Excel** for efficient data analysis and reporting.  
 
-## 🌍 Let's Connect
-
-Feel free to connect with me on any of these platforms:
-- **Email**: [mahmoudwaleed200127@gmail.com](mailto:mahmoudwaleed200127@gmail.com)
-- **LinkedIn**: [Mahmoud Waleed](https://mahmoudwaleed.my.canva.site/mahmoud-waleed)
-- **Portfolio**: [Mahmoud Waleed Portfolio](https://mahmoudwaleed.my.canva.site/mahmoud-waleed)
 ## 🌍 Let's Connect  
 
 <p align="center">
