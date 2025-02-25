@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a **Junior Data Analyst** passionate about exploring data, uncovering insights, and improving decision making processes. I enjoy working with various data tools and continuously learn new methods to process and visualize data. I believe that every dataset has a story to tell!
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Data_analysis_icon.png" width="150" alt="Data Analysis Logo"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3314/3314780.png" width="150" alt="Data Analysis Logo"/>
 </p>
 
 ## 💡 About Me
