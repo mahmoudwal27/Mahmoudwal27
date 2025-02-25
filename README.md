@@ -1,21 +1,13 @@
 ### Hello! I'm Mahmoud Waleed 👋
 
 Welcome to my GitHub profile! I'm a **Junior Data Analyst** passionate about exploring data, uncovering insights, and improving decision making processes. I enjoy working with various data tools and continuously learn new methods to process and visualize data. I believe that every dataset has a story to tell!
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Data_analysis_icon.png" width="150" alt="Data Analysis Logo"/>
+</p>
 
 ## 💡 About Me
 
 &nbsp;Electronics and Communication Engineering graduate with a strong analytical mindset and a passion for data driven decision making. &nbsp;Currently refining my expertise in data analysis, visualization, and machine learning to transition into a data centric role. Skilled in &nbsp;extracting, analyzing, and interpreting complex datasets to uncover meaningful insights that drive strategic business decisions. &nbsp;Committed to leveraging data driven solutions to solve real world challenges and optimize performance across various industries.
-
-## 🔧 Technical Skills
-
-Here are some of the tools and technologies I'm proficient in:
-
-- I have experience with **Python and SQL** for data analysis.  
-- I use **Pandas, NumPy, Excel, and DAX** for data manipulation and processing.  
-- I specialize in data visualization with **Tableau, Power BI, Matplotlib, and Seaborn**.  
-- I work with databases such as **MySQL, PostgreSQL, SQLite, and SQL Server**.  
-- I use **Git and GitHub** for version control.  
-- I work with **Jupyter Notebook, Google Colab, Power BI, Tableau, SQL Server, and Excel** for efficient data analysis and reporting.
 
 ## 🔧 Technical Skills
 
