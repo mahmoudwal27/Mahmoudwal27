@@ -2,9 +2,6 @@
 
 Welcome to my GitHub profile! I'm a **Junior Data Analyst** passionate about exploring data, uncovering insights, and improving decision making processes. I enjoy working with various data tools and continuously learn new methods to process and visualize data. I believe that every dataset has a story to tell!
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue?logo=github)](https://mahmoudwal27.github.io/Mahmoudwal27/)
-
-
 ## 💡 About Me
 
 &nbsp;Electronics and Communication Engineering graduate with a strong analytical mindset and a passion for data driven decision making. &nbsp;Currently refining my expertise in data analysis, visualization, and machine learning to transition into a data centric role. Skilled in &nbsp;extracting, analyzing, and interpreting complex datasets to uncover meaningful insights that drive strategic business decisions. &nbsp;Committed to leveraging data driven solutions to solve real world challenges and optimize performance across various industries.
