@@ -23,9 +23,9 @@ Feel free to connect with me on any of these platforms:
 - **Email**: [mahmoudwaleed200127@gmail.com](mailto:mahmoudwaleed200127@gmail.com)
 - **LinkedIn**: [Mahmoud Waleed](https://mahmoudwaleed.my.canva.site/mahmoud-waleed)
 - **Portfolio**: [Mahmoud Waleed Portfolio](https://mahmoudwaleed.my.canva.site/mahmoud-waleed)
-- ## 🌍 Let's Connect  
+## 🌍 Let's Connect  
 
-<p align="left">
+<p align="center">
   <a href="mailto:mahmoudwaleed200127@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -36,7 +36,6 @@ Feel free to connect with me on any of these platforms:
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
-
 
 ## 🙏 Thanks for Visiting!
 
