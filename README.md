@@ -59,21 +59,21 @@ Welcome to my GitHub profile! I'm a **Junior Data Analyst** passionate about exp
               calc(1.5 * var(--positionX)) calc(1.5 * var(--positionY)) calc(2 * var(--spread)) magenta,
               calc(2 * var(--positionX)) calc(2 * var(--positionY)) calc(3 * var(--spread)) cyan
             ;
-          }
+          }     
           25% {
             text-shadow:
               calc(-1 * var(--positionX)) calc(1 * var(--positionY)) calc(1 * var(--spread)) yellow,
               calc(-1.5 * var(--positionX)) calc(1.5 * var(--positionY)) calc(2 * var(--spread)) magenta,
               calc(-2 * var(--positionX)) calc(2 * var(--positionY)) calc(3 * var(--spread)) cyan
             ;
-          }          
+          }        
           50% {
             text-shadow:
               calc(-1 * var(--positionX)) calc(-1 * var(--positionY)) calc(1 * var(--spread)) yellow,
               calc(-1.5 * var(--positionX)) calc(-1.5 * var(--positionY)) calc(2 * var(--spread)) magenta,
               calc(-2 * var(--positionX)) calc(-2 * var(--positionY)) calc(3 * var(--spread)) cyan
             ;
-          }         
+          }      
           75% {
             text-shadow:
               calc(1 * var(--positionX)) calc(-1 * var(--positionY)) calc(1 * var(--spread)) yellow,
@@ -117,7 +117,7 @@ Welcome to my GitHub profile! I'm a **Junior Data Analyst** passionate about exp
 			</style>
 			<div class='text'>
         <h1 data-text="Ryan Filler">Mahmoud Waleed</h1>
-        <h2 data-text="Front-End Developer">Data Analyst</h2>
+        <h2 data-text="Front-End Developer">Data Analyst</h2>        
 			</div>
     </div>
 	</foreignObject>
