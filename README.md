@@ -17,42 +17,6 @@ Here are some of the tools and technologies I'm proficient in:
 - I use **Git and GitHub** for version control.  
 - I work with **Jupyter Notebook, Google Colab, Power BI, Tableau, SQL Server, and Excel** for efficient data analysis and reporting.
 
-## 🔧 Technical Skills  
-
-<table align="center">
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-      <br>Python
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="SQL"/>
-      <br>SQL
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
-      <br>Pandas
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
-      <br>NumPy
-    </td>
-  </tr>
-    <td align="center" width="140">
-      <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="50" height="50" alt="Power BI"/>
-      <br>Power BI
-    </td>
-    <td align="center" width="140">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="50" height="50" alt="Tableau"/>
-      <br>Tableau
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter"/>
-      <br>Jupyter Notebook
-    </td>
-  </tr>
-</table>
-
 ## 🔧 Technical Skills
 
 <p align="center">
@@ -64,14 +28,14 @@ Here are some of the tools and technologies I'm proficient in:
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
   &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" height="50" alt="Matplotlib"/>
+  &nbsp;&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="50" height="50" alt="Power BI"/>
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="50" height="50" alt="Tableau"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter Notebook"/>
 </p>
-
-
 
 ## 🌍 Let's Connect  
 
