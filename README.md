@@ -1,7 +1,8 @@
 ### Hello! I'm Mahmoud Waleed 👋
 
 Welcome to my GitHub profile! I'm a **Junior Data Analyst** passionate about exploring data, uncovering insights, and improving decision making processes. I enjoy working with various data tools and continuously learn new methods to process and visualize data. I believe that every dataset has a story to tell!
-![Animated SVG](https://your-username.github.io/animated-svg/)
+
+[![Animated SVG](https://your-username.github.io/animated-svg/)](https://your-username.github.io/animated-svg/)
 
 ## 💡 About Me
 
