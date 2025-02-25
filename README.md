@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a **Junior Data Analyst** passionate about exp
 
 ## 💡 About Me
 
-&nbsp;Electronics and Communication Engineering graduate with a strong analytical mindset and a passion for data driven decision making.&nbsp; Currently refining my expertise in data analysis, visualization, and machine learning to transition into a data centric role. Skilled in &nbsp;extracting, analyzing, and interpreting complex datasets to uncover meaningful insights that drive strategic business decisions. &nbsp;Committed to leveraging data driven solutions to solve real world challenges and optimize performance across various industries.
+&nbsp;Electronics and Communication Engineering graduate with a strong analytical mindset and a passion for data driven decision making. &nbsp;Currently refining my expertise in data analysis, visualization, and machine learning to transition into a data centric role. Skilled in &nbsp;extracting, analyzing, and interpreting complex datasets to uncover meaningful insights that drive strategic business decisions. &nbsp;Committed to leveraging data driven solutions to solve real world challenges and optimize performance across various industries.
 
 ## 🔧 Technical Skills
 
